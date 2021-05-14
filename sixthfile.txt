@@ -6,3 +6,6 @@ Untracked files:
 	sixthfile.txt
 
 nothing added to commit but untracked files present (use "git add" to track)
+[win-br 485cc71] create sixth txt file
+ 1 file changed, 8 insertions(+)
+ create mode 100644 sixthfile.txt
